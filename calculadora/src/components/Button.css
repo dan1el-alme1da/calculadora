@@ -13,15 +13,15 @@
 }
 
 .button:active {
-    background-color: #ccc;
+    background-color: #ddcece;
 }
 
 .button.double {
     grid-column: span 2;
 }
 
-button.triple {
-    grid-column:span 3;
+.button.triple {
+    grid-column: span 3;
 }
 
 .button.operation {
